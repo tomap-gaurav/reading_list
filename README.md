@@ -4,15 +4,15 @@
 
 [BrainStattion Guide : How to Become a Python Developer](https://brainstation.io/career-guides/how-to-become-a-python-developer)
 
-1. Basics
+**1. Basics**
 
 - [RealPython : Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/)
 
-**1. System Programming**
+**2. System Programming**
 
 - [System Programming with Python](https://python-course.eu/applications-python/python-and-the-shell.php)
 
-**1. Web Frameworks**
+**3. Web Frameworks**
 
 - [Understanding HTTP Basics](http://www.steves-internet-guide.com/http-basics/)
 - [MDN Web Docks : HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
