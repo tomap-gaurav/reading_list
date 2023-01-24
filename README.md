@@ -33,6 +33,10 @@
 - [SciPy Lectures : Data Science Notes](https://scipy-lectures.org/index.html)
 - [Brandon Rohrer : Machine Learning Contents](https://e2eml.school/blog.html)
 
+## Deep Learning
+- [AssemblyAI - Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
+- [Jay Alammar : Transformers Illustrated](https://jalammar.github.io/illustrated-transformer/)
+
 ## APIs
 
 - [Text Summarization with Cohere AI](https://docs.cohere.ai/docs/text-summarization-guide)
