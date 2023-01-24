@@ -24,6 +24,7 @@
 - [Flask Quickstart](https://flask.palletsprojects.com/en/2.2.x/quickstart/)
 - [RealPython : Flask by Example - Implementing a Redis Task Queue](https://realpython.com/flask-by-example-implementing-a-redis-task-queue/)
 - [RealPython : Flask Articles](https://realpython.com/tutorials/flask/)
+- [RealPython : Dockerize Flask App](https://realpython.com/dockerizing-flask-with-compose-and-machine-from-localhost-to-the-cloud/)
 
 
 ## Machine Learning & Data Science
