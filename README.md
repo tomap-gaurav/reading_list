@@ -16,11 +16,14 @@
 
 - [Understanding HTTP Basics](http://www.steves-internet-guide.com/http-basics/)
 - [MDN Web Docks : HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [RealPython : HTML & CSS for python developers](https://realpython.com/html-css-python/)
 - [Web Frameworks: How To Get Started](https://djangostars.com/blog/what-is-a-web-framework/)
 - [Vonage Developer : Python's WSGI vs. ASGI](https://developer.vonage.com/en/blog/21/11/19/how-wsgi-vs-asgi-is-like-baking-a-cake)
 - [Medium : Difference between WSGI and ASGI?](https://medium.com/analytics-vidhya/difference-between-wsgi-and-asgi-807158ed1d4c)
 - [RealPython : Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)
 - [Flask Quickstart](https://flask.palletsprojects.com/en/2.2.x/quickstart/)
+- [RealPython : Flask by Example - Implementing a Redis Task Queue](https://realpython.com/flask-by-example-implementing-a-redis-task-queue/)
+- [RealPython : Flask Articles](https://realpython.com/tutorials/flask/)
 
 
 ## Machine Learning & Data Science
