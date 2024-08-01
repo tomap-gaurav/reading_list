@@ -34,6 +34,7 @@
 - [Brandon Rohrer : Machine Learning Contents](https://e2eml.school/blog.html)
 
 ## Deep Learning
+- [How backpropagation alrogithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
 - [AssemblyAI - Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
 - [Jay Alammar : Transformers Illustrated](https://jalammar.github.io/illustrated-transformer/)
 
