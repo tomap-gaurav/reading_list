@@ -2,7 +2,7 @@
 
 ## Python
 
-[BrainStattion Guide : How to Become a Python Developer](https://brainstation.io/career-guides/how-to-become-a-python-developer)
+[BrainStation Guide : How to Become a Python Developer](https://brainstation.io/career-guides/how-to-become-a-python-developer)
 
 **1. Basics**
 
