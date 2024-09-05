@@ -35,6 +35,7 @@
 - [Brandon Rohrer : Machine Learning Contents](https://e2eml.school/blog.html)
 
 ## Deep Learning
+- The complete mathematics of neural networks and deep learning [[Adam Dhalla YouTube](https://www.youtube.com/watch?v=Ixl3nykKG9M&ab_channel=AdamDhalla)]
 - [How backpropagation alrogithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
 - [AssemblyAI - Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
 - [Jay Alammar : Transformers Illustrated](https://jalammar.github.io/illustrated-transformer/)
@@ -54,4 +55,6 @@
 
 [Joel On Software : The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [FreeCodeCamp : What Is a File System?](https://www.freecodecamp.org/news/file-systems-architecture-explained/)
+- Beej's Guides on Networking, C, Python, Git etc [[beej.us/guide](https://beej.us/guide/)]
+- How Computers work [[Core Dumped YouTube](https://www.youtube.com/watch?v=HjneAhCy2N4&ab_channel=CoreDumped)] [[cpu.land](https://cpu.land/)] [[YouTube Playlist](https://www.youtube.com/playlist?list=PLnAxReCloSeTJc8ZGogzjtCtXl_eE6yzA)]
 
