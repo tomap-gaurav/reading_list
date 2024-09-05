@@ -30,6 +30,7 @@
 ## Machine Learning & Data Science
 
 - [Google Guide : Good Data Analysis](https://developers.google.com/machine-learning/guides/good-data-analysis)
+- How to succeed as a machine learning engineer in the industry [medium](https://towardsdatascience.com/how-to-succeed-as-a-machine-learning-engineer-in-the-industry-d36ffc2f2631)
 - [SciPy Lectures : Data Science Notes](https://scipy-lectures.org/index.html)
 - [Brandon Rohrer : Machine Learning Contents](https://e2eml.school/blog.html)
 
