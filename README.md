@@ -33,16 +33,22 @@
 - How to succeed as a machine learning engineer in the industry [medium](https://towardsdatascience.com/how-to-succeed-as-a-machine-learning-engineer-in-the-industry-d36ffc2f2631)
 - [SciPy Lectures : Data Science Notes](https://scipy-lectures.org/index.html)
 - [Brandon Rohrer : Machine Learning Contents](https://e2eml.school/blog.html)
+- Image Processing with Pillow Library [realpython.com](https://realpython.com/image-processing-with-the-python-pillow-library/)
 
 ## Deep Learning
 - The complete mathematics of neural networks and deep learning [[Adam Dhalla YouTube](https://www.youtube.com/watch?v=Ixl3nykKG9M&ab_channel=AdamDhalla)]
-- [How backpropagation alrogithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
+- [How backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
 - [AssemblyAI - Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
 - [Jay Alammar : Transformers Illustrated](https://jalammar.github.io/illustrated-transformer/)
+- [zero to AI Research Scientist](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
+- AI by Hands [Prof Tom Yeh](https://aibyhand.substack.com/)
+- LLM Engineer's Handbook [sylphAI-inc](https://github.com/SylphAI-Inc/LLM-engineer-handbook)
+- LLM Resources Hub [Link](https://llmresourceshub.vercel.app/)
 
 ## APIs
 
 - [Text Summarization with Cohere AI](https://docs.cohere.ai/docs/text-summarization-guide)
+- Open markets finacial data [markets.sh](https://markets.sh/l/api)
 
 ## Tech News
 
@@ -51,10 +57,11 @@
 - [Enigma: a simple encrypted filesystem](https://github.com/aegistudio/enigma)
 - [Top Technologies for Fintech Software Development](https://djangostars.com/blog/technologies-for-fintech-software-development/)
 
-## Computer Science Concepts
+## Computer Science Concepts / Software Engineering
 
 [Joel On Software : The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [FreeCodeCamp : What Is a File System?](https://www.freecodecamp.org/news/file-systems-architecture-explained/)
 - Beej's Guides on Networking, C, Python, Git etc [[beej.us/guide](https://beej.us/guide/)]
 - How Computers work [[Core Dumped YouTube](https://www.youtube.com/watch?v=HjneAhCy2N4&ab_channel=CoreDumped)] [[cpu.land](https://cpu.land/)] [[YouTube Playlist](https://www.youtube.com/playlist?list=PLnAxReCloSeTJc8ZGogzjtCtXl_eE6yzA)]
+- Distributed Systems [distributedsystemscourse](https://www.distributedsystemscourse.com/)
 
